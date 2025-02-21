@@ -4,7 +4,7 @@ This repository contains documentation and exploits developed for solving variou
 
 ## Team Members
 - **Leonardo Céspedes Tenorio**
-- **Kevin Chang Chang*
+- **Kevin Chang Chang**
 
 ## Description
 The project's objective is to apply cybersecurity knowledge to analyze, exploit, and document vulnerabilities in different scenarios, categorized into the following areas:
